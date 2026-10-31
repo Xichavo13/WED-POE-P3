@@ -17,7 +17,7 @@ The main objectives of the website are to:
 - Allow users to submit enquiries through an online form.
 - Make information accessible on desktop, tablet and mobile devices.
 
-## Website Pages
+ Website Pages
 
 The website includes the following sections:
 

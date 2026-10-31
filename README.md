@@ -1,12 +1,12 @@
-# Hope Community Development Centre Website
+ Hope Community Development Centre Website
 
-## Project Overview
+Project Overview
 
 The Hope Community Development Centre website is a responsive website developed to provide information about the organisation, its mission, vision, community programmes and activities. The website aims to connect community members, volunteers, donors, sponsors and other stakeholders with the organisation.
 
 The website provides a simple and user-friendly platform where visitors can learn about the organisation, explore its projects and submit enquiries.
 
-## Project Objectives
+ Project Objectives
 
 The main objectives of the website are to:
 
